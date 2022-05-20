@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trevor Luper</h1>
-<h3 align="center">Software engineer at 100Devs - Full-Stack developer with a passion to create application that promote change in the world.</h3>
+<h3 align="center">Software engineer at 100Devs - Full-Stack developer with a passion to create applications that promotes change in the world.</h3>
 
 - 👨‍💻 All of my projects are available at [TrevorLuper.com](TrevorLuper.com)
 
